@@ -1,0 +1,23 @@
+{
+  "name": "microphone",
+  "version": "1.0.0",
+  "description": "PWA Microphone App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjbrof/microphone.git"
+  },
+  "keywords": [
+    "microphone",
+    "pwa"
+  ],
+  "author": "Patrick Brophy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pjbrof/microphone/issues"
+  },
+  "homepage": "https://github.com/pjbrof/microphone#readme"
+}
